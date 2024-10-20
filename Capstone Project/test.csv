@@ -1,0 +1,76 @@
+productID,model,color,gpu,cpu,ram,harddisk,OS,special_features
+2943,Lenovo 14 Inches,,"Integrated, Intel",2.6 GHz,8 GB,128 GB,Windows 10 Home,
+2944,acer TravelMate P6 P614-52 14 Inches,Galaxy Black,Iris Xe Graphics,Core i7 Family,16 GB,1 TB,Windows 10 Pro,Multi-touch Gesture
+2945,DELL LATITUDE 5420 LAPTOP 14 INCHES,BLACK,INTEGRATED,CORE I5,32 GB,512 GB,WINDOWS 10 HOME,WIFI & BLUETOOTH
+2946,DELL DELL LATITUDE 15.6 INCHES,BLACK,"DEDICATED, NVIDIA GEFORCE 940MX",2.9 GHZ,16 GB,,WINDOWS 10 PRO,
+2947,Dell Latitude 3520 Laptop 15.6 Inches,Black,Integrated,Core i5,32 GB,512 GB,Windows 11 Home,Wifi & Bluetooth
+2948,Lenovo ThinkPad T440p 14 Inches,Black,"Integrated, Integrated",Core i5,8 GB,500 GB,Windows 7,
+2949,Lenovo 81WE011UUS 15.6 Inches,Platinum Grey,"Integrated, Intel UHD Graphics",Core i3 Family,8 GB,512 GB,Windows 10 Pro,
+2950,Dell Alienware m17 Ryzen Edition R5 Laptop 17.3 Inches,Dark Side of the Moon,"Dedicated, NVIDIA GeForce RTX 3060",AMD Ryzen 7,12 GB,512 GB,Windows 11 Home,
+2951,Dell Latitude 3520 Laptop 15.6 Inches,,Unknown,Core i7,,512 GB,Windows 10 Home,
+2952,ASUS ROG Strix G15 15.6 Inches,Eclipse gray,Dedicated,AMD Ryzen 7,32 GB,1 TB,Windows 11 Pro,"HD Audio, Backlit Keyboard, Anti Glare Coating, Numeric Keypad"
+2953,Lenovo Lenovo Thinkpad 14 Inches,,Integrated,Core i7 / 3 GHz,16 GB,512 GB,Windows 10 Pro,
+2954,Dell Latitude 5431 Laptop 14 Inches,Black,Dedicated,Core i7,32 GB,1000 GB,Windows 11 Pro,Wifi & Bluetooth
+2955,SAMSUNG Samsung Galaxy Book Pro 15.6 Inches,Mystic Blue,"Integrated, Intel Iris Xe Graphics",Core i7,16 GB,512 GB,Windows 10 Home,
+2956,Dell Alienware m18 Laptop 18 Inches,Dark Metallic Moon,Nvidia GeForce RTX 4060,Core i9,32 GB,1000 GB,Windows 11 Pro,Wifi & Bluetooth
+2957,Toughbook CF-20 mk1 10.1 Inches,,"Integrated, Intel HD Graphics 515",Core M Family,8 GB ,256 GB,Windows 10 Pro,Backlit Keyboard
+2958,Dell Dell Inspiron 16 Inches,,Unknown,Core I7 11800H / 4.6 GHz,32 GB,,Windows 10 Home,"Backlit Keyboard,Fingerprint Reader"
+2959,Dell XPS 9530 Laptop 15.6 Inches,Platinum Silver,Nvidia GeForce RTX 4050,Core i7,32 GB,2000 GB,Windows 11 Pro,Wifi & Bluetooth
+2960,Asus Vivobook 14 Inches,Grey,Intel UHD Graphics,Core i3,8 GB ,256 GB,Windows 11,Backlit Keyboard
+2961,Acer Aspire 15 A517 17.3 Inches,Pure Silver,Integrated,Core i7 Family,12 GB,512 GB,Windows 10 Home,"Fingerprint Reader, HD Audio, Backlit Keyboard, Anti Glare Coating, Numeric Keypad"
+2962,ACER NITRO 5 AN515 15.6 INCHES,OBISIDIAN BLACK,DEDICATED,CORE I7 FAMILY,64 GB,2 TB,WINDOWS 10 HOME,"HD AUDIO, BACKLIT KEYBOARD, ANTI GLARE COATING, NUMERIC KEYPAD"
+2963,Dell XPS 9530 Laptop 15.6 Inches,Platinum Silver,Nvidia GeForce RTX 4070,Core i7,16 GB,512 GB,Windows 11 Pro,Wifi & Bluetooth
+2964,LG 17Z90Q-K.AAS6U1 17 Inches,Black,"Dedicated, Intel Iris Xe Graphics",Core i5,16 GB ,512 GB,Windows 11 Home,
+2965,Apple MacBook Pro 14 Inches,Space Gray,Integrated,Apple M1 / 3.2 GHz,32 GB ,1 TB,Mac OS,
+2966,LENOVO LENOVO IDEAPAD 1 14 INCHES,,"INTEGRATED, INTEL UHD GRAPHICS 605",1.1 GHZ,4 GB,128 MB,WINDOWS,"ANTI-GLARE,HD AUDIO"
+2967,HP HP PAVILION X360 14 INCHES,SILVER,INTEGRATED,CORE I5,8 GB,512 GB,WINDOWS 11 HOME,"FINGERPRINT READER, BACKLIT KEYBOARD"
+2968,Lenovo Touch 14 Inches,Onyx Black,"Integrated, AMD Radeon Vega 8",Ryzen 5 3500U,8 GB,,Windows 10 Home,
+2969,Dell XPS 9520 Laptop 15.6 Inches,Platinum Silver,"Dedicated, NVIDIA GeForce RTX 3050 Ti",Core i7,16 GB,2000 GB,Windows 11 Pro,
+2970,Dell Latitude 3520 Laptop 15.6 Inches,Black,Integrated,Core i7,32 GB,256 GB,Windows 11 Home,Wifi & Bluetooth
+2971,Dell Alienware m18 Laptop 18 Inches,Black,"Integrated, NVIDIA GeForce RTX 4080",Core i9,64 GB ,1000 GB,Windows 11 Home,
+2972,Dell Latitude 5530 Laptop 15.6 Inches,Black,Dedicated,Core i7,64 GB,1000 GB,Windows 11 Home,Wifi & Bluetooth
+2973,HP ENVY 17-CR100 17.3 INCHES,PLATINUM SILVER,INTEGRATED,CORE I7 FAMILY,12 GB,2 TB,WINDOWS 11 PRO,"HD AUDIO, BACKLIT KEYBOARD, ANTI GLARE COATING, MEMORY CARD SLOT, NUMERIC KEYPAD"
+2974,Lenovo ThinkPad T14 Gen 3 14 Inches,,"Iris Xe Graphics, Intel Iris Xe Graphics",Core i7,16 GB,512 GB,Windows 11,Anti-glare Screen
+2975,Dell Alienware m15 R7 Laptop 15.6 Inches,Dark Side of the Moon,"Dedicated, NVIDIA GeForce RTX 3080",Core i9,32 GB,1000 GB,Windows 11 Home,
+2976,HP ELITEBOOK 840 G9 14 INCHES,SILVER,IRIS XE GRAPHICS,CORE I5,16 GB,256 GB,WINDOWS 11 PRO,ANTI-GLARE SCREEN
+2977,acer Chromebook 511 C741LT 11.6 Inches,Shale Black,Adreno 618,AMD Kabini A6-5200M Quad Core,4 GB,32 GB,Chrome OS,Backlit
+2978,Dell Inspiron 3511 Laptop 15.6 Inches,Black,Integrated,Core i5,8 GB,512 GB,Windows 10 Home,Wifi & Bluetooth
+2979,Toughbook CF-53 MK4 14 Inches,Silver,Integrated,Core i5,16 GB,1 TB,Windows 10 Pro,Fingerprint
+2980,Dell Precision 7770 Laptop 17.3 Inches,Silver,Nvidia RTX A4500,Core i7,64 GB,2000 GB,Windows 11 Home,Wifi & Bluetooth
+2981,Lenovo Chromebook Flex 5 13.3 Inches,Graphite Grey,Integrated,Core i3-10110U,4 GB,64 GB,Chrome OS,"Anti-glare,Backlit Keyboard,Narrow Bezels"
+2982,Dell Inspiron 15.6 Inches,,"Integrated, Intel UHD Graphics",Core i5 / 2.4 GHz,32 GB,1 TB,Windows 11 Pro,
+2983,HP 15-DW300 15.6 Inches,Natural Silver,Integrated,Core i5 Family,32 GB,1 TB,Windows 11 Pro,"HD Audio, Backlit Keyboard, Anti Glare Coating, Memory Card Slot, Numeric Keypad"
+2984,Dell Precision 5000 15.6 Inches,Aluminum Titan Gray,RTX A2000,Core i7,32 GB,512 GB,Windows 10 Pro,"InfinityEdge, Anti-glare Screen"
+2985,DELL VOSTRO 3510 LAPTOP 15.6 INCHES,BLACK,INTEGRATED,CORE I7,8 GB,512 GB,WINDOWS 10 HOME,WIFI & BLUETOOTH
+2986,Dell Vostro 3520 Laptop 15.6 Inches,Black,"Integrated, Intel Integrated Graphics",Core i5,8 GB,256 GB,Windows 11 Pro,
+2987,ASUS ASUS Chromebook 17.3 Inches,,"Integrated, Intel HD Graphics 5000",Celeron N / 1.1 GHz,4 GB,32 GB,Chrome OS,
+2988,Dell Latitude 5430 Laptop 14 Inches,Black,"Integrated, Intel Integrated Graphics",Core i7,32 GB,1000 GB,Windows 11 Pro,
+2989,ASUS TUF Gaming A17 17.3 Inches,Graphite Black,Dedicated,Ryzen 5 4600H,24 GB,1 TB,Windows 10 Pro,"HD Audio, Backlit Keyboard, Anti Glare Coating, Numeric Keypad"
+2990,Dell Latitude 5431 Laptop 14 Inches,Black,Integrated,Core i5,16 GB ,1000 GB,Windows 11 Home,Wifi & Bluetooth
+2991,HP 15-DY100 15.6 Inches,Natural Silver,Integrated,Core i3-1005G1,8 GB,512 GB,Windows 11 Home,"HD Audio, Anti Glare Coating, Memory Card Slot, Numeric Keypad"
+2992,Dell Latitude 7520 Laptop 15.6 Inches,Black,Integrated,Core i7,16 GB,512 GB,Windows 10 Home,Wifi & Bluetooth
+2993,ASUS VivoBook S15 15.6 Inches,Indie Black,Integrated,Intel Core i7-1165G7,16 GB ,512 GB,Windows 11,"Fingerprint Reader, HD Audio, Backlit Keyboard, Memory Card Slot, Anti Glare Coating"
+2994,Dell Latitude 7330 2-in-1 13.3 Inches,Aluminum,"Integrated, Intel Integrated Graphics",Core i5,16 GB,256 GB,Windows 11 Pro,
+2995,Lenovo Yoga 7 15.6 Inches,Dark Moss,Integrated,Core i7 Family,12 GB,4 TB,Windows 10 Pro,"Fingerprint Reader, HD Audio, Backlit Keyboard, Numeric Keypad"
+2996,Dell Alienware X17 R2 Laptop 17.3 Inches,Lunar Light,"Integrated, NVIDIA GeForce RTX 3080",Core i9, 64 GB,2000 GB,Windows 11 Home,
+2997,Asus ASUS BR1100 11.6 Inches,Dark Grey,Integrated,Celeron,4 GB ,64 GB,Windows 10 Pro,Anti Glare Coating
+2998,Dell Latitude 5520 Laptop 15.6 Inches,Black,Integrated,Core i5,32 GB,512 GB,Windows 11 Home,Wifi & Bluetooth
+2999,DELL PRECISION 3550 13.3 INCHES,,"INTEGRATED, INTEL HD GRAPHICS 520",CORE I7 / 1.8 GHZ,,512 GB,WINDOWS 10 PRO (ENGLISH/FRENCH/SPANISH),
+3000,acer C771-C4TM 11.6 Inches,Black,Integrated,Celeron,1 GB,32 GB,Chrome OS,Spill Resistant
+3001,Lenovo ThinkPad P15 Gen 2 15.6 Inches,Black,RTX A2000,Core i7 Family,32 GB,1 TB,Windows 10 Pro,Anti-glare Screen
+3002,Lenovo ThinkBook 15 G4 IAP 15.6 Inches,Gray,Iris Xe Graphics,Core i7,8 GB,512 GB,Windows 11,Anti-glare Screen
+3003,HP ELITEBOOK 820G3 12.5 Inches,Black,"Integrated, Integrated Graphics",Core i5,16 GB,1000 GB,Windows 10 Pro 64 Bit Multi-Language Support English/French/Spanish,
+3004,Dell Dell-7855-G7-512SSD 15.6 Inches,Black,"Dedicated, NVIDIA GeForce GTX 1060",Core i7,16 GB,512 GB,Windows 10 Home,
+3005,Dell 15.6 Inches,Gray,"Dedicated, NVIDIA GeForce RTX 3050",Core i5 / 3.1 GHz,16 GB,512 GB,Windows 11 Home,
+3006,Apple MacBook Air 15.3 Inches,Midnight,Integrated,Unknown,8 GB,256 GB,Mac OS,
+3007,Dell XPS 9315 Laptop 13.4 Inches,Platinum Silver,"Integrated, Intel Integrated Graphics",Core i7,32 GB,1000 GB,Windows 11 Home,
+3008,Dell Latitude 3520 Laptop 15.6 Inches,Black,Integrated,Core i5,32 GB,512 GB,Windows 10 Home,Wifi & Bluetooth
+3009,HP HP ProBook 15.6 Inches,Silver,"Integrated, Intel Iris",Core i5,16 GB,,Windows 10 Pro,
+3010,DELL VOSTRO 3510 LAPTOP 15.6 INCHES,BLACK,INTEGRATED,CORE I5,16 GB,512 GB,WINDOWS 10 HOME,WIFI & BLUETOOTH
+3011,HP 14-DQ0070NR 14 INCHES,PALE ROSE GOLD,INTEGRATED,CELERON N4020,4 GB,64 GB,WINDOWS 11 S,MICRO-EDGE BEZEL
+3012,Dell Latitude 5520 Laptop 15.6 Inches,Black,Integrated,Core i7,16 GB,512 GB,Windows 10 Home,Wifi & Bluetooth
+3013,acer CB315-1HT 15.6 Inches,Platinum Grey,"Integrated, Intel HD Grpahics 500",Celeron N3350,4 GB,32 GB,Chrome OS,
+3014,Dell XPS 9510 Laptop 15.6 Inches,Platinum Silver,Nvidia GeForce RTX 3050 Ti,Core i9,64 GB,2000 GB,Windows 10 Home,Wifi & Bluetooth
+3015,Dell Latitude 15.6 Inches,,"Integrated, Intel Iris Xe Graphics",Core i5,16 GB,2 TB,Windows 10 Pro,
+3016,DELL 13.3 INCHES,SILVER,"INTEGRATED, INTEL IRIS PLUS GRAPHICS 640",CORE I7 / 3.8 GHZ,8 GB,,WINDOWS 10 HOME,
+3017,Dell Vostro 7620 Laptop 16 Inches,Black,Nvidia GeForce RTX 3050,Core i7,40 GB,4000 GB,Windows 10 Home,Wifi & Bluetooth
