@@ -1,0 +1,62 @@
+ID,AGE,GENDER,DRIVING_EXPERIENCE,EDUCATION,INCOME,CREDIT_SCORE,VEHICLE_YEAR,MARRIED,CHILDREN,POSTAL_CODE,ANNUAL_MILEAGE,VEHICLE_TYPE,SPEEDING_VIOLATIONS,DUIS,PAST_ACCIDENTS
+710627,26-39,male,10-19y,university,middle class,0.539282979,before 2015,0,0,10238,18000,sedan,1,0,0
+591696,65+,male,20-29y,university,upper class,0.636650996,after 2015,0,1,10238,,sedan,3,0,1
+858911,16-25,female,0-9y,high school,working class,0.371904065,before 2015,0,0,10238,14000,sedan,0,0,0
+674516,16-25,female,0-9y,high school,working class,,before 2015,1,0,10238,,sedan,0,0,0
+535845,65+,male,20-29y,high school,upper class,0.702749739,before 2015,1,1,32765,9000,sedan,8,1,1
+801829,26-39,male,0-9y,university,upper class,0.700809355,before 2015,0,0,32765,12000,sedan,0,0,0
+247819,16-25,male,0-9y,none,poverty,0.310687776,after 2015,0,0,10238,13000,sedan,0,0,0
+511639,40-64,female,20-29y,high school,upper class,0.650417684,before 2015,1,1,32765,,sedan,2,0,0
+878291,26-39,male,10-19y,high school,upper class,0.589850728,before 2015,0,1,32765,11000,sedan,4,0,0
+233436,26-39,female,10-19y,university,upper class,0.383701234,before 2015,0,0,10238,13000,sedan,0,0,0
+535998,16-25,female,0-9y,none,poverty,0.409103098,before 2015,0,0,10238,18000,sedan,0,0,0
+757136,40-64,female,10-19y,university,upper class,0.690269177,before 2015,1,1,10238,11000,sedan,1,0,1
+317313,65+,male,10-19y,university,upper class,0.614690389,after 2015,0,1,10238,,sedan,4,0,1
+575492,26-39,female,10-19y,none,poverty,0.344072377,before 2015,0,1,10238,15000,sedan,0,0,2
+438799,65+,female,30y+,university,upper class,0.548671381,before 2015,1,1,10238,7000,sedan,7,0,2
+667580,26-39,female,10-19y,high school,working class,0.447453448,before 2015,0,1,32765,13000,sedan,2,1,1
+832759,16-25,female,0-9y,high school,poverty,0.316903716,before 2015,0,1,10238,15000,sedan,0,0,0
+237732,26-39,male,10-19y,university,working class,,before 2015,0,0,10238,12000,sedan,0,0,0
+376004,16-25,female,0-9y,high school,working class,,before 2015,0,1,10238,9000,sedan,0,0,0
+232953,16-25,female,0-9y,high school,poverty,0.428349126,before 2015,0,0,32765,13000,sedan,0,0,0
+981019,26-39,Female,10-19y,high school,middle class,0.459216894,before 2015,0,1,32765,,sedan,1,1,1
+45708,16-25,female,0-9y,high school,poverty,0.308103698,after 2015,0,1,32765,,sedan,0,0,0
+535303,26-39,male,10-19y,high school,upper class,0.672263119,before 2015,1,1,10238,9000,sedan,1,0,0
+270914,16-25,female,0-9y,high school,poverty,,before 2015,0,0,10238,19000,sedan,0,0,0
+665946,40-64,male,10-19y,university,middle class,0.60935399,before 2015,1,1,10238,,sedan,1,0,4
+148455,16-25,male,0-9y,none,poverty,0.365193446,before 2015,0,0,10238,,sedan,0,0,0
+439435,40-64,female,20-29y,none,poverty,,before 2015,0,1,10238,10000,sedan,5,0,0
+297854,40-64,male,20-29y,high school,upper class,0.686714106,before 2015,1,1,10238,10000,sedan,9,0,2
+153822,16-25,female,0-9y,high school,poverty,0.373765957,before 2015,0,1,32765,9000,sedan,0,0,0
+529364,26-39,male,10-19y,none,poverty,0.227648088,before 2015,0,1,32765,12000,sedan,3,0,0
+790367,65+,male,0-9y,none,upper class,0.547742609,after 2015,1,1,10238,10000,sports car,0,0,0
+560201,40-64,male,20-29y,university,upper class,0.522847208,before 2015,1,0,10238,10000,sedan,8,0,1
+125857,40-64,male,10-19y,none,middle class,0.364636608,after 2015,0,0,10238,,sedan,1,0,1
+876030,16-25,male,0-9y,none,poverty,0.436115483,before 2015,0,1,32765,,sedan,0,0,0
+248253,26-39,male,10-19y,university,middle class,0.315636637,before 2015,1,1,92101,14000,sedan,1,0,0
+918463,26-39,MALE,10-19y,none,poverty,0.225601779,before 2015,0,1,10238,9000,sedan,5,1,2
+39393,40-64,male,10-19y,high school,middle class,0.384844719,before 2015,1,1,32765,12000,sedan,2,0,0
+352416,65+,female,0-9y,university,upper class,0.589319755,before 2015,1,1,32765,9000,sedan,0,0,0
+298482,65+,male,0-9y,university,upper class,,after 2015,0,1,10238,10000,sedan,0,0,0
+769261,26-39,female,10-19y,high school,upper class,0.568939031,after 2015,1,1,10238,9000,sedan,0,0,1
+511051,26-39,male,10-19y,none,working class,0.554345323,before 2015,0,0,32765,11000,sedan,1,2,2
+934754,65+,female,10-19y,high school,upper class,0.724643866,after 2015,1,1,92101,10000,sedan,1,0,0
+627216,26-39,male,10-19y,university,middle class,,after 2015,0,1,32765,15000,sedan,3,0,1
+421596,65+,male,30y+,university,upper class,0.503222539,after 2015,1,1,10238,9000,sedan,6,2,10
+402988,26-39,female,10-19y,university,upper class,0.741718464,after 2015,1,1,10238,11000,sedan,0,0,0
+775728,26-39,female,10-19y,none,working class,0.453598601,before 2015,0,0,10238,13000,sedan,0,0,3
+543431,40-64,male,0-9y,university,upper class,0.489722984,after 2015,1,1,10238,12000,sedan,0,0,0
+599712,40-64,male,20-29y,university,upper class,,before 2015,0,1,32765,13000,sedan,3,1,0
+163684,40-64,male,20-29y,university,middle class,0.596214615,before 2015,1,1,10238,14000,sedan,0,0,0
+697130,65+,male,30y+,high school,upper class,0.397402168,after 2015,1,1,10238,11000,sedan,7,0,4
+437853,26-39,female,10-19y,none,working class,0.373685807,before 2015,0,1,10238,11000,sedan,2,2,1
+864534,65+,male,30y+,high school,upper class,0.521274154,before 2015,1,1,10238,8000,sedan,5,1,8
+418920,26-39,female,0-9y,university,upper class,0.679379838,before 2015,1,1,10238,11000,sedan,0,0,0
+736013,40-64,female,10-19y,university,middle class,0.608155232,after 2015,1,1,10238,12000,sedan,0,0,1
+75241,26-39,female,10-19y,none,poverty,0.390821689,before 2015,0,1,92101,10000,sedan,1,0,0
+247096,26-39,male,0-9y,university,upper class,0.484888668,before 2015,1,1,10238,14000,sedan,0,0,0
+608297,26-39,male,10-19y,none,poverty,,before 2015,0,0,10238,12000,sedan,1,0,3
+247809,40-64,male,20-29y,university,upper class,0.427971551,before 2015,1,0,92101,14000,sedan,5,1,1
+62005,26-39,female,0-9y,high school,working class,0.390911332,before 2015,0,1,10238,15000,sedan,0,0,0
+83170,40-64,female,0-9y,none,working class,0.466873796,before 2015,0,1,32765,11000,sedan,0,0,0
+151252,16-25,male,0-9y,university,middle class,0.623546212,before 2015,1,0,10238,11000,sedan,0,0,0
